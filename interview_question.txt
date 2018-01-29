@@ -1,0 +1,4 @@
+ 1)What were some of the key goals and motivation for HTML5 specification?
+ 	-->Deliver rich content without additional plugin like Flash
+ 	-->Compatibility with three screen sizes
+ 	-->

@@ -1,15 +1,23 @@
 What happens when you initialize a repository? Why do you need to do it?
 
- When we initialize a repository we create a .git file to the repository/directory which contains the commit status.
+ 	When we initialize a repository we create a .git file to the repository/directory which contains the commit status.
 
 How is the staging area different from the working directory and the repository?
+
+	Staging area is the stage where an edited /changed /new file moves if it is added with git add command while working directory will hold the changed file which is still not added.Repository on the other hand will hold the commited changes.
+
 What value do you think it offers?
+	
+	The three different regions help us to compare the edits and revert back changes when and if required.
+
 
  Staging area is an intermediate region betwn wrking directory and repository, where we cn add files one at a time once we have geared up for commit git commits the two added files together to the repository.
  	It offers the flexibility of adding files one at a time to the staging area and commiting the added files together.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	We have to add that particular changed file to the staging area andthen commit the chaange.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?

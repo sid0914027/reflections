@@ -1,0 +1,15 @@
+ 1)What were some of the key goals and motivation for HTML5 specification?
+ 	-->Deliver rich content without additional plugin like Flash
+ 	-->Compatibility with three screen sizes
+ 	-->cross browser behavior
+ 2)What are some of the key new features of HTML5?
+ 	-->improved support for embedding graphics, audio, and video content via the new <canvas>, <audio>, and <video> tags.
+
+	-->Extensions to the JavaScript API such as geolocation and drag-and-drop as well for storage and caching.
+
+	-->Introduction of “web workers”.
+
+	-->Several new semantic tags were also added to complement the structural logic of modern web applications. These include the <main>, <nav>, <article>, <section>, <header>, <footer>, and <aside> tags.
+
+	-->New form controls, such as <calendar>, <date>, <time>, <email>, <url>, and <search>.	
+ 3)	
