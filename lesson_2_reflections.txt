@@ -17,10 +17,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	We have to add that particular changed file to the staging area andthen commit the chaange.
+	We have to add that particular changed file to the staging area andthen commit the change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches will help in changing the code without affecting the main branch. If anything happens you can always go to previous commit or if you want the changes to be commited you can make that branch as the master branch and commit it. 
 
 How do the diagrams help you visualize the branch structure?
 
