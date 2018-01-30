@@ -25,6 +25,8 @@ organized? How would branches help?
 	Branches will help in changing the code without affecting the main branch. If anything happens you can always go to previous commit or if you want the changes to be commited you can make that branch as the master branch and commit it. 
 
 How do the diagrams help you visualize the branch structure?
+	
+	Diagrams help in understanding where you are in a particular repository. It helps us to make changes and get the knowledge of the whole structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
